@@ -10,14 +10,14 @@ This repository contains the source code for [Your Project Name], a web applicat
 
 ## Technologies Used
 
-- **PHP**: [Version]
-- **Laravel**: [Version]
-- **Yii2**: [Version]
-- **CodeIgniter**: [Version]
-- **HTML**: [Version]
-- **CSS**: [Version]
-- **Ajax**: [Version]
-- **jQuery**: [Version]
+- **PHP**
+- **Laravel**
+- **Yii2**
+- **CodeIgniter**
+- **HTML**
+- **CSS**
+- **Ajax**
+- **jQuery**
 
 ## Features
 
