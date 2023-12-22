@@ -1,4 +1,5 @@
 ### Hi there I am Gaurangkumar Patel 👋
+https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif
 
 # Project Name
 
